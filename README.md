@@ -1,4 +1,6 @@
-# 绝妙的个人生产力（Awesome Productivity 中文版） [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 绝妙的个人生产力（Awesome Productivity 中文版） 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > 这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。
 >
@@ -9,7 +11,7 @@
 > 感谢 jyguyomarch 的 [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)，本单受其启发，并使用其作为最初始清单。
 
 ```
-提示：查看本单目录请使用 GitHub 边栏按钮
+提示：可访问本单的官方文档获得更便捷的阅读体验 <https://pro.eastlakeside.cn/>
 ```
 
 ## 书籍
@@ -155,4 +157,5 @@
 - [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集
 - [uTools](https://u.tools/) - 你的生产力工具集
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows
-
+- [CleanShotX](https://sspai.com/item/227#389) - Macos，截屏+录屏，输出mp4、png、gif等主流格式。建议购买[setapp](https://setapp.com/)应用包，性价比更高
+- [Bartender](https://www.macbartender.com/) - Macos菜单栏图标管理，建议购买[setapp](https://setapp.com/)应用包，性价比更高，或者试试更为小巧的开源产品[Dozer](https://github.com/Mortennn/Dozer)
